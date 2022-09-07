@@ -27,4 +27,4 @@ git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/assignment-4-wa
 * [Npgsql](https://www.npgsql.org/): version 5.0.14
 ## Swagger Ekran Görüntüsü
 ***
-
+![Swagger](https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/assignment-4-watarzie/blob/main/PayCore-HW4/Screenshots/SwaggerScreenshot.png?raw=true)
