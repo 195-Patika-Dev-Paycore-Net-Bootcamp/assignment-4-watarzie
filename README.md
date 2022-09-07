@@ -6,6 +6,9 @@
 * Ödev 1 Controller ve 1 Action Metot içermelidir.
 * Geçen hafta ödevden kalan kodlar gönderilmemelidir.
 * Araca ait tüm containerlar n girdisi kadar seçilen algoritmaya göre kümelenmelidir.
+## Kullanılan Algoritma
+***
+* K-Means Algoritması
 ## Kurulum
 ***
 ```
